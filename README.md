@@ -1,4 +1,4 @@
-<h1 align="center">Oi 👋, meu nome é Brunno Adão Roque de Lima</h1>
+<h1 align="center">Olá, meu nome é Brunno Adão Roque de Lima</h1>
 <h3 align="center">Eu sou desenvolvedor PHP, que está se aventurando no estudo de Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbrunnolima&label=Profile%20views&color=0e75b6&style=flat" alt="devbrunnolima" /> </p>
