@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devbrunnolima&label=Profile%20views&color=0e75b6&style=flat" alt="devbrunnolima" /> </p>
 
-- 🔭 No momento estou trabalhando para a **Prefeitura Municipal de Taboão da Serra**
 
 - 🌱 Atualmente estou estudando **Power BI, Python, Machine Larning.**
 
