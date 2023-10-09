@@ -9,7 +9,7 @@ Engenheiro de software com mais de 4 anos de experiÃªncia. Trabalhei para serviÃ
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&color=informational&logo=php).
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational%logo=typescript.js)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
 ![](https://img.shields.io/badge/Tool-SASS-informational?style=flat&color=warning&logo=sass)
