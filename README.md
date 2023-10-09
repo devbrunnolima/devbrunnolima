@@ -13,7 +13,7 @@ Engenheiro de software com mais de 4 anos de experiência. Trabalhei para servi�
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 ![](https://img.shields.io/badge/Tool-Webpack-informational?style=flat&color=warning&logo=webpack)
 ![](https://img.shields.io/badge/Tool-SASS-informational?style=flat&color=warning&logo=sass)
-![](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white).
+![](https://img.shields.io/badge/Tool-Tailwind-informational?style==flat&color=warning&logo=tailwind-css).
 
 
 ## 📊 Statistics
