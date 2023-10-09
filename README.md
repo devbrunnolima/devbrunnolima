@@ -6,7 +6,7 @@ Software engineer with 4+ years of experience. Worked for public service, small 
 Engenheiro de software com mais de 4 anos de experiência. Trabalhei para serviços públicos, empresas de pequeno porte e agências premiadas. Familiarizado com funções remotas e presenciais. Sempre em busca de assumir a responsabilidade pelo projeto e entregar mais rápido do que o esperado. Confortável com desenvolvimento web responsivo e de APIs.
 
 ## 🛠️ Technologies & Tools
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=php).
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&color=informational&logo=php).
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
